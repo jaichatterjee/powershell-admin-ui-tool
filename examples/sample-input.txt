@@ -1,0 +1,22 @@
+Sample Input File – PowerShell Administrative UI Tool
+
+Purpose:
+This file represents a generic example of user-provided input
+that may be referenced or selected during UI-driven operations.
+
+Example Values:
+- User or mailbox identifiers
+- Group names
+- Request references
+- Environment-neutral placeholders
+
+Sample Entries:
+user1@example.com
+user2@example.com
+test-group@example.com
+sample-request-id-001
+
+Notes:
+- Values shown here are NOT real
+- Replace with environment-appropriate data when running the tool
+- Format and usage depend on the selected UI operation
