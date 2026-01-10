@@ -1,7 +1,7 @@
 # PowerShell Administrative UI Tool
 
 ## Overview
-This repository contains a **menu-driven PowerShell UI tool** designed to simplify **administrative and operational tasks** for IT support and operations teams.
+This repository contains a **menu-driven PowerShell UI tool** designed to simplify **administrative and operational tasks** for IT support and operation teams.
 
 The script uses a **graphical interface** to reduce reliance on command-line interaction, making routine administrative actions more accessible, consistent, and less error-prone.
 
