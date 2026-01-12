@@ -1,1 +1,25 @@
+{
+  "Application": {
+    "Name": "PowerShell Administrative UI Tool",
+    "Version": "1.0.0",
+    "Environment": "Production"
+  },
+  "Paths": {
+    "InstallDirectory": "C:\\ProgramData\\AdminUITool",
+    "LogDirectory": "C:\\ProgramData\\AdminUITool\\Logs"
+  },
+  "Logging": {
+    "Enabled": true,
+    "LogLevel": "Info",
+    "RetainDays": 30
+  },
+  "UI": {
+    "Theme": "Default",
+    "ShowBanner": true
+  },
+  "Execution": {
+    "RequireAdmin": true,
+    "AllowOfflineMode": false
+  }
+}
 
